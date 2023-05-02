@@ -1,4 +1,4 @@
-class Dog:
+class Cat:
     def __init__(self):
-        self.color = "brown"
-        self.breed = "german shepper"
+        self.color = "black"
+        self.breed = "persian"
